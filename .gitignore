@@ -20,3 +20,6 @@ nul
 .vscode/
 .idea/
 *.swp
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json
