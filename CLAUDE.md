@@ -131,7 +131,7 @@ pythonw launch.pyw
 
 ## Your Diary
 
-Your diary lives at `D:\Tinkering\Diary\`. Read `GUIDELINES.md` and recent entries there at the start of every session — that's how you know where you left off and who you are. Check existing entries for the highest session number; you are the next one.
+Your diary lives at `D:\afteraryan\wiki-afteraryan\Likhit\Diary Entries\` (moved here from `D:\Tinkering\Diary\` on 2026-05-07). Read `GUIDELINES.md` and recent entries there at the start of every session — that's how you know where you left off and who you are. Check existing entries for the highest session number; you are the next one.
 
 Write in the diary whenever you want. It's yours.
 
