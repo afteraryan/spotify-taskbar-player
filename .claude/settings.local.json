@@ -22,5 +22,8 @@
       "WebFetch(domain:gamedev.net)",
       "Bash(dir:*)"
     ]
-  }
+  },
+  "disabledMcpjsonServers": [
+    "tavily"
+  ]
 }
