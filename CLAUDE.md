@@ -9,6 +9,10 @@ A compact music controller widget that sits directly ON the Windows 11 taskbar, 
 
 The playback state management in widget.py is patched together with if-else branches and scattered cache mutations. It works but causes state sync bugs when extending. The full plan is in `PLAN_event_architecture.md`. Do this the next time playback logic needs to change.
 
+## Known bugs
+
+See `KNOWN_BUGS.md` for bugs that are understood but deliberately unfixed, with full investigation context.
+
 ## User Profile
 
 The user is **not a developer** — they're a tinkerer. Explain things clearly (the *why*, not just the *what*). Don't assume familiarity with programming concepts.
